@@ -3,14 +3,16 @@
 body {
 
         background-color:  #EAEAEA;
+        color: ##474747;
+        font-family: 'Roboto', sans-serif;
+
+      }
+
+img {
+        display: flex;
+        padding: 20px;
 }
 
-border-radius{
-  #rcorners3 
-  border-radius: 25px;
-  background: url(self-portrait.JPG);
-  background-position: left top;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
+h1, h2 {
+        text-align: right;
 }
